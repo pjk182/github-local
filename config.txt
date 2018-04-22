@@ -1,0 +1,7 @@
+{
+  "address": "NQ88 Y0RJ 8L3L QVKR CBG8 5V2H UF7B QMNV TH5G",
+  "name"   : "Miner_0",
+  "thread" : 22,
+  "percent": 100,
+  "server" : "auto"
+}
